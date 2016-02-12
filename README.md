@@ -1,6 +1,8 @@
 Scalar
 ======
 
+[![Join the chat at https://gitter.im/carleton-avrc/scalar](https://badges.gitter.im/carleton-avrc/scalar.svg)](https://gitter.im/carleton-avrc/scalar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Congratulations on discovering Scalar, the next generation in media-rich, scholarly electronic publishing!
 
 If you just want to create a Scalar project, the easiest route is to work from our servers.  You can register and learn more at http://scalar.usc.edu/scalar/ .  Using the version of Scalar that is hosted on our servers guarantees that you are working on the most up-to-date version of the software. During our beta phase, updates will continue to happen with some frequency as features are added, user feedback is incorporated and Scalar continues to broaden the horizons of electronic publishing. If you are technically inclined and decide to host your own version of Scalar, you’re free to customize and modify it in any way, but it’s up to you to download, install and troubleshoot updates as they become available.
